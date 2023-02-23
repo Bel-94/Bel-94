@@ -7,17 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bel-94&label=Profile%20views&color=0e75b6&style=flat" alt="bel-94" /> </p>
 
-- 🔭 I’m currently working on **perfecting my backend skills in python, Django, API Development (Django Rest Framweork) while mastering data structures & algorithms**
+- 🔭 I’m currently working on <a href='https://github.com/Bel-94/elewa-group'>elewa-group - open-source website</a>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **any challenge that seeks to make life better and simpler.**
 
-- 🤝 I’m looking for help with **AWS as a python developer**
+- 🤝 I’m looking for help with **Getting an entry-level job**
 
 - 👨‍💻 All of my projects are available at [Bel-94](Bel-94)
 
-- 💬 Ask me about **web apps, and tech.**
+- 💬 Ask me about **tech and entrepreneurship.**
 
 - 📫 How to reach me **ntinyaribelinda@gmail.com**
 
