@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any challenge that seeks to make life better and simpler.**
 
-- 🤝 I’m looking for help with **Getting an entry-level job**
+- 🤝 I’m looking for help with **Getting an entry-level job in software development.**
 
 - 👨‍💻 All of my projects are available at [Bel-94](Bel-94)
 
