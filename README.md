@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on <a href='https://github.com/Bel-94/elewa-group'>elewa-group - open-source website</a>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **AWS and docker**
 
 - 👯 I’m looking to collaborate on **any challenge that seeks to make life better and simpler.**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Bel-94](Bel-94)
 
-- 💬 Ask me about **tech and entrepreneurship.**
+- 💬 Ask me about **Tech, startups and entrepreneurship.**
 
 - 📫 How to reach me **ntinyaribelinda@gmail.com**
 
