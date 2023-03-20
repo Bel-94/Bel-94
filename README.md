@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bel-94&label=Profile%20views&color=0e75b6&style=flat" alt="bel-94" /> </p>
 
-- 🔭 I’m currently working on <a href='https://github.com/Bel-94/elewa-group'>elewa-group - open-source website</a>
+- 🔭 I’m currently working on the following open-source projects: <p><a href='https://github.com/Bel-94/elewa-group'>elewa-group</a></p><p><a href='https://github.com/Bel-94/elewa'>elewa clm</a></p><p><a href='https://github.com/Bel-94/Team-Rio-Django'>Space-Ya-Tech Blog Website Backend</a></p>
 
 - 🌱 I’m currently learning **AWS and docker**
 
