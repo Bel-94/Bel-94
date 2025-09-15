@@ -7,7 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bel-94&label=Profile%20views&color=0e75b6&style=flat" alt="bel-94" /> </p>
 
-- 🔭 I’m currently working on the following open-source projects: <p><a href='https://github.com/Bel-94/elewa-group'>elewa-group</a></p><p><a href='https://github.com/Bel-94/elewa'>elewa clm</a></p><p><a href='https://github.com/Bel-94/Team-Rio-Django'>Space-Ya-Tech Blog Website Backend</a></p>
+- 🏆 Some of my completed open-source projects:  
+  - [Elewa Group](https://github.com/Bel-94/elewa-group): A collaborative platform for managing learning and team activities.  
+  - [Elewa CLM](https://github.com/Bel-94/elewa): A custom learning management system for structured training.  
+  - [Space-Ya-Tech Blog Website Backend](https://github.com/Bel-94/Team-Rio-Django): A Django-powered backend for a tech community blog.  
 
 - 🌱 I’m currently learning **AWS and docker**
 
